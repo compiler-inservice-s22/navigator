@@ -6,10 +6,10 @@ Quick links to repos
 
 |||
 |:-:|:-:|
-| Discussion board | [compiler-s21/Discussion](https://github.com/compiler-s21/discussion) |
-| Website | [compiler-s21.github.io](https://compiler-s21.github.io) |
+| Discussion board | [compiler-f21/Discussion](https://github.com/compiler-s21/discussion) |
+| Website | [compiler-f21.github.io](https://compiler-s21.github.io) |
 | Website for in-servie student |  |
-| Private Resources | [compiler-s21/private](https://github.com/compiler-s21/private) |
+| Private Resources | [compiler-f21/private](https://github.com/compiler-s21/private) |
 
 ## Links for teaching team
 
