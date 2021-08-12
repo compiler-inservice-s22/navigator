@@ -17,7 +17,7 @@ Quick links to repos
 |:-:|:-:|
 | invisible-hand | [compiler-f19/invisible-hand](https://github.com/compiler-f19/invisible-hand) |
 | hw-manager | [compiler-s20/Hw-manager](https://github.com/compiler-s20/Hw-manager) |
-| website-source | [compiler-s21/website](https://github.com/compiler-s21/website) |
+| website-source | [compiler-f21/website](https://github.com/compiler-f21/website) |
 | inservice-website-source | -- |
 | f19 docs | [compiler-f19/docs](https://github.com/compiler-f19/docs) |
 
